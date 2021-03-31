@@ -27,4 +27,4 @@ Commands:
 Run 'gpr [command] --help' for more information about a command.
 ```
 
-New note
+New note 2
